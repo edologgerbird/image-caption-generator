@@ -32,25 +32,9 @@
 
 # About The Project
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in sodales neque, vel vulputate orci. Suspendisse felis justo, blandit suscipit condimentum vel, molestie efficitur dui. Nulla in sodales purus, vestibulum congue nulla. Ut in sapien id magna congue tempor. Aliquam non metus ut tellus dictum vulputate. Praesent suscipit lacinia ex, nec finibus lectus. Morbi non est metus. Maecenas accumsan dui a rhoncus finibus. Aliquam vehicula neque in erat faucibus fringilla. Curabitur tristique nisl id augue egestas pharetra. Vivamus in semper augue. Mauris scelerisque lacinia sem quis vestibulum. Nunc varius non elit ac euismod. Sed vitae urna porta erat feugiat volutpat. Maecenas efficitur pulvinar lectus vitae facilisis.
-
-Here's why:
-
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Computer vision continues to develop and new technologies continue to push the state-of-art. To stay ahead of the competition, modern businesses are rapidly integrating these new technologies into their workflow. Our group decided to analyse potential business use cases of different variants of image caption generation models over the past decade. We decided to compare older image caption generation models built upon LSTM architectures to their more modern transformer-based counterpart. Depending on the underlying model architecture, these models can be adapted and deployed in business, marketing, or healthcare contexts to streamline existing operations and/or improve workflows. In this project, we compare the architectures of two image caption generation models: one using Long Short-Term Memory (LSTM) and another with transformers. Our study will highlight the strengths and trade-offs of these architectures in the business context of image caption generation. We first introduce and analyse these two architectures in great detail before discussing the various training procedures and shortcomings of our approach.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-### _Pipeline Architecture:_
-
-  <a>
-    <img src="read_me_files/archi.png" alt="Pipeline Architecture" height="400">
-  </a>
 
 ### _Keywords:_
 
